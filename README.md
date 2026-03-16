@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Henrique! 👋
+# Olá, eu sou o Gabriel Henrique! 🧑‍💻👋
 
 Estagiário de Tecnologia apaixonado por resolver problemas e aprender novas linguagens.
 
